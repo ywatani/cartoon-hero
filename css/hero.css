@@ -8,6 +8,9 @@ body{
 h1, h2{
     font-family: 'Press Start 2P', cursive;
 }
+
+/* header styles */
+
 header{
     background-color: #d41635;
     text-align: center;
